@@ -36,3 +36,14 @@ My strong points are a good communication skills, diligence and good self-learni
 * methodology of BEM
 * experience of using VSCode, WebStorm, Gulp and SCSS
 * basic level in Photoshop and Figma
+
+## Code example
+```javascript
+var s = "Подсветка JavaScript";
+alert(s);
+```
+
+```python
+s = "Подсветка Python"
+print s
+```

@@ -47,3 +47,8 @@ alert(s);
 s = "Подсветка Python"
 print s
 ```
+## Languages
+Mather tongues: Belarusian, Russian
+
+### Other languages:
+English - A2

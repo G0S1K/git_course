@@ -12,4 +12,5 @@ Sex: male | Date of birth: 20 March 2002</br>
 * meeting like-minded people
 
 My strong points are a good communication skills, diligence and good self-learning abilities
+
 ##Education and training

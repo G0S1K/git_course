@@ -16,7 +16,8 @@ My strong points are a good communication skills, diligence and good self-learni
 * 2017 - present</br>
   Gomel Agricultural and Economic Сollege</br>
   Specialty: IT software</br>
-  Qualification: technician programmer</br>
+  Qualification: technician programmer
+  
 * October 2020</br>
   Programming courses on the site "Coursera"</br>
   "Introduction to HTML5", "Interactivity with JavaScript", "Introduction to CSS3"</br>

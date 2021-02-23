@@ -27,3 +27,12 @@ My strong points are a good communication skills, diligence and good self-learni
   
 * December 2020 - February 2021<br>
   Practical traning from Сollege in hospital as a system administrator.
+
+## My skills
+* proficiency in PC
+* knowledge of the language of programming C#
+* basic level in Git
+* basic level in HTML and CSS
+* methodology of BEM
+* experience of using VSCode, WebStorm, Gulp and SCSS
+* basic level in Photoshop and Figma

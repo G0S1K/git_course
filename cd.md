@@ -39,12 +39,12 @@ My strong points are a good communication skills, diligence and good self-learni
 
 ## Code example
 ```javascript
-var s = "Подсветка JavaScript";
+var s = "JavaScript";
 alert(s);
 ```
 
 ```python
-s = "Подсветка Python"
+s = "Python"
 print s
 ```
 ## Languages

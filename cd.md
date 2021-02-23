@@ -13,3 +13,8 @@ Sex: male | Date of birth: 20 March 2002</br>
 
 My strong points are a good communication skills, diligence and good self-learning abilities
 ## Education and training
+* 2017 - present
+  Gomel Agricultural and Economic Сollege</br>
+  Specialty: IT software</br>
+  Qualification: technician programmer</br>
+* 

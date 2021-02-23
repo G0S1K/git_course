@@ -4,7 +4,7 @@
 Gleb Korotkevich</br>
 Gomel, Belarus</br>
 Sex: male | Date of birth: 20 March 2002</br>
-korotkevich.glebka@gmail.com</br>  
+korotkevich.glebka@gmail.com</br>
 [Telegram](https://t.me/glebka232)</br>
 ## My purpose
 * to become a frontend developer

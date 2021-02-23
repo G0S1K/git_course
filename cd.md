@@ -9,4 +9,5 @@ Sex: male | Date of birth: 20 March 2002</br>
 * to become a frontend developer
 * studying the popular language of programming JavaScript
 * meeting like-minded people
+
 My strong points are a good communication skills, diligence and good self-learning abilities

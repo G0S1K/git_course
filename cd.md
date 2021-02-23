@@ -13,8 +13,14 @@ Sex: male | Date of birth: 20 March 2002</br>
 
 My strong points are a good communication skills, diligence and good self-learning abilities
 ## Education and training
-* 2017 - present
+* 2017 - present</br>
   Gomel Agricultural and Economic Сollege</br>
   Specialty: IT software</br>
   Qualification: technician programmer</br>
-* 
+* October 2020</br>
+  Programming courses on the site "Coursera"</br>
+  "Introduction to HTML5", "Interactivity with JavaScript", "Introduction to CSS3"</br>
+* November 2020 - December 2020</br>
+  Programming course for web-developers on the "FreeCodeCamp"
+* December 2020 - February 2021<br>
+  Practical traning from Сollege in hospital as a system administrator.

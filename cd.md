@@ -48,7 +48,7 @@ s = "Python"
 print s
 ```
 ## Languages
-Mather tongues: Belarusian, Russian
+Mother tongues: Belarusian, Russian
 
 ### Other languages:
 English - A2
